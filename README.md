@@ -107,7 +107,3 @@ To enable autocomplete for database tables, columns, etc., you can connect WebSt
 * User: (your usercode)
 * Password: (your password)
 * Database: (your database, as in `.env`)
-# Event-Meetup-Server
-# Event-Meetup-Server
-# Event-Meetup-Server
-# Event-Meetup-Server
